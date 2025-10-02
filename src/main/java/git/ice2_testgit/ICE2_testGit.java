@@ -11,6 +11,6 @@ package git.ice2_testgit;
 public class ICE2_testGit {
 
     public static void main(String[] args) {
-        System.out.println("rev 3 local");
+        System.out.println("rev 4 remote");
     }
 }
